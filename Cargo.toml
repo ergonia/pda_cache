@@ -1,0 +1,14 @@
+[package]
+name = "pda_cache"
+version = "0.5.0"
+edition = "2021"
+author = "Ergonia"
+website = "ergonia.io"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+parking_lot = "0.12.4"
+rustc-hash = "2.1.1"
+solana-program = "1.18.11"

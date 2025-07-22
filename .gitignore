@@ -1,0 +1,4 @@
+perf.data*
+**/perf.data*
+target
+Cargo.lock
