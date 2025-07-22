@@ -3,8 +3,9 @@ name = "pda_cache"
 version = "0.5.0"
 edition = "2021"
 author = "Ergonia"
-website = "ergonia.io"
+homepage = "ergonia.io"
 license = "MIT"
+repository = "https://github.com/sschetterer-ergonia/pda_cache"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
